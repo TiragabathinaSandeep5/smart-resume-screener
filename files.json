@@ -1,0 +1,28 @@
+{
+  "candidate_id": 1,
+  "candidate": {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Machine Learning",
+      "SQL"
+    ],
+    "experience": "2 years",
+    "education": "B.Tech Computer Science"
+  },
+  "match": {
+    "score": 8,
+    "matching_skills": [
+      "Python",
+      "FastAPI",
+      "Machine Learning",
+      "SQL"
+    ],
+    "missing_skills": [
+      "Git"
+    ],
+    "justification": "Strong backend and machine learning experience..."
+  }
+}
